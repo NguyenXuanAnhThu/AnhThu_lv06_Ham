@@ -63,17 +63,16 @@
   **3.2 Phân loại theo công dụng:** có hai loại công dụng:
   
   
-   `
-     Cung cấp các giá trị cho hàm khi ta gọi nó thực hiện .
+      Cung cấp các giá trị cho hàm khi ta gọi nó thực hiện .
    
-    Lưu các kết quả tính toán được trong quá trình hàm hoạt động
+      Lưu các kết quả tính toán được trong quá trình hàm hoạt động
     
-    Tương ứng với công dụng ta có các loại tham số:
+      Tương ứng với công dụng ta có các loại tham số:
     
-    Tham số vào: Cung cấp giá trị cho hàm.
+      Tham số vào: Cung cấp giá trị cho hàm.
     
-    Tham số ra: Lưu kết quả tính toán được trong hàm. 
+      Tham số ra: Lưu kết quả tính toán được trong hàm. 
     
-    Tham số vừa vào, vừa ra: vừa cung cấp giá trị cho hàm, vừa lưu kết quả tính toán được trong hàm.`
+      Tham số vừa vào, vừa ra: vừa cung cấp giá trị cho hàm, vừa lưu kết quả tính toán được trong hàm.
 
   
