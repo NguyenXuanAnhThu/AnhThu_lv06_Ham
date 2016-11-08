@@ -74,5 +74,12 @@
       Tham số ra: Lưu kết quả tính toán được trong hàm. 
     
       Tham số vừa vào, vừa ra: vừa cung cấp giá trị cho hàm, vừa lưu kết quả tính toán được trong hàm.
+      
+<a name"hamdoi"></a>
+###4. Hàm đối con trỏ:
+Đối số  của hàm là con trỏ kiểu int (float,double,. ) thì tham số thực tương ứng phải là địa chỉ của biến kiểu int (float,double,.). Khi đó địa chỉ của biến được truyền cho đối con trỏ tương ứng.
+
+Khi muốn bảo lưu lại kết quả tính toán được của các đối số trong hàm để sử dụng cho chương trình gọi hàm có đối số thì chúng ta phải khai báo đối số của hàm là tham chiếu (con trỏ hay dạng địa chỉ).
+
 
   
